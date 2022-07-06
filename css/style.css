@@ -1,0 +1,127 @@
+.container {
+    margin: 0px 348px;
+    
+}
+
+.header-line {
+    padding-top: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-item {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    margin-right: 41px;
+    transition: color 0.3s linear;
+}
+
+.nav-item:hover {
+    color: darkgreen;
+}
+
+.button {
+    background-color: #151515;
+    color: white;
+    padding: 11px 15px;
+    font-weight: 500;
+    transition: color 0.3s linear;
+}
+
+.button:hover {
+    color: rebeccapurple;
+}
+
+.photo-image {
+    margin-top: 36px;
+}
+
+.header-down {
+    margin-right: 41px;
+    position: absolute;
+    margin-top: -678px;
+    color: white;
+    margin-left: 285px;
+    
+}
+
+
+.header-title {
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+   
+}
+
+.header-subtitle {
+   color: white;
+    margin-top: -678px;
+    margin-left: 364px;
+    font-weight: 400;
+    font-size: 14px;
+   
+    
+}
+
+.header-suptitle {
+    color: white;
+    margin-top: -21px;
+    margin-left: 452px;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+
+.trud-title {
+    font-weight: 700;
+font-size: 72px;
+    color: white;
+    margin-left: 606px;
+    margin-top: 200px;
+}
+
+.trud-desc {
+    color: white;
+    margin-left: 524px;
+    font-weight: 700;
+font-size: 26px;
+    
+}
+
+.header-tex {
+
+   color: #259CE1;
+    font-weight: 700;
+font-size: 40px;
+    margin-top: 503px;
+    margin-left: 285px;
+}
+
+.header-subtext {
+    color: #1F1F1F;
+    font-weight: 700;
+font-size: 48px;
+    margin-left: 400px;
+    margin-top: -65px;
+}
+
+.header-suptext {
+    font-weight: 400;
+font-size: 26px;
+    margin-left: 400px;
+    margin-top: 46px;
+}
+
+.header-button {
+    position: absolute;
+  background-color: #0E143B;
+    padding: 7px 27px;
+    color: white;
+    font-weight: 400;
+font-size: 26px;
+    margin-left: 1518px;
+    margin-top: -193px;
+}
